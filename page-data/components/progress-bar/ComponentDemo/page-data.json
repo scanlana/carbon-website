@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-components-progress-bar-component-demo-js",
-    "path": "/components/progress-bar/ComponentDemo/",
-    "result": {"pageContext":{"relativePagePath":"/components/progress-bar/ComponentDemo.js","titleType":"prepend","frontmatter":{"description":"Components / Progress Bar / Component Demo","title":"Components / Progress Bar / Component Demo"}}},
-    "staticQueryHashes": ["137577622","2102389209","2746626797","3018647132","3037994772","768070550"]}
+{"componentChunkName":"component---src-pages-components-progress-bar-component-demo-js","path":"/components/progress-bar/ComponentDemo/","result":{"pageContext":{"relativePagePath":"/components/progress-bar/ComponentDemo.js","titleType":"prepend","frontmatter":{"description":"Components / Progress Bar / Component Demo","title":"Components / Progress Bar / Component Demo"}}},"staticQueryHashes":["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
